@@ -51,7 +51,7 @@
   background-color: #3e82e5 !important;
 }
 .theme-dark .lookFilled-1Gx00P:active, .theme-dark .lookFilled-1Gx00P:hover {
-  background-color: #b64a61 !important;
+  background-color: #fff !important;
 }
 .theme-dark .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) {
   color: #c5536c;
@@ -94,10 +94,10 @@
   background-color: var(--background-modifier-hover) !important;
 }
 .theme-light .lookFilled-1Gx00P {
-  background-color: #c5536c !important;
+  background-color: #3e82e5 !important;
 }
 .theme-light .lookFilled-1Gx00P:active, .theme-light .lookFilled-1Gx00P:hover {
-  background-color: #b64a61 !important;
+  background-color: #fff !important;
 }
 .theme-light .lookOutlined-3sRXeN:not(.colorWhite-rEQuAQ) {
   color: #c5536c;
